@@ -10,7 +10,7 @@ from dateutil import parser
 #Database connections
 mydb = mysql.connector.connect(
   host="localhost",
-  user="yash",
+  user="sachin",
   password="123456",
   database ="linkdb"
 )
