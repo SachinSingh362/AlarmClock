@@ -13,7 +13,7 @@ val ="mini"
 
 mycursor = mydb.cursor()
 
-sql = "DELETE FROM users WHERE username = 'yash'"
+sql = "DELETE FROM users WHERE username = 'sachin'"
 
 mycursor.execute(sql)
 
